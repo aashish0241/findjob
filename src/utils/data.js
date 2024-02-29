@@ -21,6 +21,7 @@ export const experience = [
 
 export const popularSearch = [
   "Software Engineer",
+  "web developer",
   "Developer",
   "Full-Stack Developer",
   "Data Scientist",
